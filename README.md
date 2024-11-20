@@ -1,6 +1,4 @@
-Here’s the updated README with the inclusion of `RandomForestRegressor` from `sklearn.ensemble`:
 
----
 
 # End-to-End Car Price Prediction Project  
 
